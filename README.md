@@ -1,9 +1,1 @@
-# church
-# church
-# church
-# church
-# church
-# church
-# church
-# church
-# new
+A simple responsive church website 
